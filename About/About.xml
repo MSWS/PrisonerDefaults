@@ -7,9 +7,9 @@
     <li>1.6</li>
   </supportedVersions>
   <description>Allows for setting prisoner-specific defaults. No more prisoners eating fine / lavish meals!
-    Works for new and existing games. For existing saves, create a policy named "Prisoner" (or the equivalent in your
-    language).
-    Policy will be automatically updated upon capture, and upon recruitment.</description>
+Works for new and existing games. For existing saves, create a policy named "Prisoner" (or the equivalent in your
+language).
+Policy will be automatically updated upon capture, and upon recruitment.</description>
   <modDependencies>
     <li>
       <packageId>brrainz.harmony</packageId>
